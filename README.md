@@ -1,5 +1,5 @@
 ## app stay safe mobile:
- - donnees de user(nom,prenom,phone,email) usage de sqlite.
+ - donnees de user(nom,prenom,phone,email) usage de sqlite (1ere fois).
  - Service partage longitude et latitude en temp reel avec une REST API.
  - comparer les deff entre les latlong des utilisateurs si dans le rayon de 5m afficher un notification ou alert.
 
