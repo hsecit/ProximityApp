@@ -4,19 +4,20 @@
  - comparer les deff entre les latlong des utilisateurs si dans le rayon de 5m afficher un notification ou alert.
 
 ## REST API: (GET and POST)  MySQL
-   [{
+  ``` [{
     id:
     langitude:
     latitude:
    }]
-
+```
    ou
+   ```
       [{
  	id:
         id_user:
 	deff_en_mettre:
       }]
-
+```
 
 
 
